@@ -32,7 +32,7 @@ Any time you do something your choir can't do, add 1 to your Dissonance and roll
 
 ## INTERVENTIONS
 
-If at least three dice come up 1 on a single roll, it's a divine intervention; that roll succeeds regardless of the rest of the dice. If it would have been a success anyway, it's a spectacular success.
+If at least three dice come up 1 on a single roll, it's a divine intervention; that roll succeeds regardless of the rest of the dice. If it would have been a success anyway, it's a spectacular success. In addition, reduce Dissonance by 1, to a minimum of 0, or remove a single Discord.<br>
 If at least three dice come up 6 on a single roll, it's an infernal intervention; the roll succeeds, but at a cost to the player (which may not be immediately apparent).
 
 ## THE ADVENTURE
