@@ -24,7 +24,7 @@ Any time you do something your choir can't do, add 1 to your Dissonance and roll
 |  | Discord | Description |
 | --- | ------- | ----------- |
 | 1 | Vestigium | Your body gains an unnatural feature, like horns or a tail.
-| 2 | Berserk | In combat, you must attack every round and can't take other actions.
+| 2 | Berserk | In combat, you can't take any action except attacking.
 | 3 | Vulnerable | The presence of a certain substance (GM's choice) gives you -1d6 to rolls.
 | 4 | Discolored | Your skin turns an unnatural shade.
 | 5 | Merciful | You can't kill anyone, even demons.
