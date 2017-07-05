@@ -17,9 +17,13 @@ Roll 1d6 to determine your angelic choir, or pick one from the list. Each choir 
 | 5 | Malakite | 4 | 2 | +1d6 in combat with the wicked; can't break a promise |
 | 6 | Mercurian | 5 | 1 | +1d6 to make or evaluate relationships; can't hurt humans |
 
+## VESSEL
+
+Every angel has a vessel, an earthly body that allows them to interact with the corporeal world. If you fail a Corporeal roll, your vessel takes 1 damage. When your vessel reaches 6 damage, it dies, and you must wait for your Archangel to give you a new one. The GM will tell you when you can re-enter the game.
+
 ## DISSONANCE
 
-Any time you do something your choir can't do, add 1 to your Dissonance and roll 1d6. If your roll is greater than or equal to your Dissonance, you're fine for now. If it's under your Dissonance, you gain a Discord from the following table and reset your Dissonance to 0.
+Any time you fail a Celestial roll or you do something your choir can't do, add 1 to your Dissonance and roll 1d6. If your roll is greater than or equal to your Dissonance, you're fine for now. If it's under your Dissonance, you gain a Discord from the following table and reset your Dissonance to 0.
 
 |  | Discord | Description |
 | --- | ------- | ----------- |
@@ -77,7 +81,7 @@ The GM should roll on each chart to generate an adventure, or pick an item from 
 
 | COMPLICATIONS 1 | |
 | --------------- | --- |
-| 1 | Two protagonists are from unfriendly Words |
+| 1 | Two protagonists are from unfriendly Archangels |
 | 2 | The antagonist has a hostage |
 | 3 | The authorities are hostile to at least one protagonist |
 | 4 | The location has secret passages |
