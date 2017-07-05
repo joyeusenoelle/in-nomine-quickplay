@@ -11,9 +11,9 @@ Roll 1d6 to determine your angelic choir, or pick one from the list. Each choir 
 |  | Choir | Corporeal | Celestial | Advantage/Disadvantage |
 | --- | ----- | --------- | --------- | ---------------------- |
 | 1 | Seraph | 1 | 5 | +1d6 to tell if someone is lying or incorrect; can't lie |
-| 2 | Cherub | 2 | 4 | +1d6 if defending someone or something; can't leave a charge unprotected |
+| 2 | Elohite | 2 | 4 | +1d6 to evaluate situations; can't let emotions sway decisions |
 | 3 | Ofanite | 3 | 3 | +1d6 to move quickly or dodge; can't stay still too long |
-| 4 | Elohite | 3 | 3 | +1d6 to evaluate situations; can't let emotions sway decisions |
+| 4 | Cherub | 3 | 3 | +1d6 if defending someone or something; can't leave a charge unprotected |
 | 5 | Malakite | 4 | 2 | +1d6 in combat with the wicked; can't break a promise |
 | 6 | Mercurian | 5 | 1 | +1d6 to make or evaluate relationships; can't hurt humans |
 
