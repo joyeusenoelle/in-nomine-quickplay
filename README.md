@@ -28,7 +28,7 @@ Any time you do something your choir can't do, add 1 to your Dissonance and roll
 | 3 | Vulnerable | The presence of a certain substance (GM's choice) gives you -1d6 to rolls.
 | 4 | Discolored | Your skin turns an unnatural shade.
 | 5 | Merciful | You can't kill anyone, even demons.
-| 6 | Aura | Anyone who looks can roll Celestial to tell you're an angel.
+| 6 | Aura | Any non-mundane you meet - including human Soldiers and sorcerers - can tell you're an angel.
 
 ## INTERVENTIONS
 
