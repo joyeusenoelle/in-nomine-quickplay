@@ -92,3 +92,5 @@ The GM should roll on each chart to generate an adventure, or pick an item from 
 | 4 | The antagonist is unwelcome at the location |
 | 5 | A protagonist has an artifact that may help |
 | 6 | The antagonist has a secret weakness | 
+
+*This is based on the role-playing game [In Nomine](http://www.sjgames.com/in-nomine), written by Derek Pearcy and published by Steve Jackson Games, Inc. Please visit the linked site for more information and to purchase the full game.*
