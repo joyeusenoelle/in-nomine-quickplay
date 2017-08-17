@@ -1,4 +1,5 @@
 # In Nomine: Infernal
+## WORK IN PROGRESS
 
 You're a group of demons, sent to earth in human guise to corrupt and pervert humans. The forces of Heaven aren't your only adversaries; ethereal spirits, human sorcerers, and divine Saints also vie for the souls of humanity.
 
@@ -23,7 +24,7 @@ Every demon has a vessel, an earthly body that allows them to interact with the 
 
 ## DISSONANCE
 
-Any time you do something your band can't do, add 1 to your Dissonance and roll 1d6. If your roll is greater than or equal to your Dissonance, you're fine for now. If it's under your Dissonance, you gain a Discord from the following table and reset your Dissonance to 0.
+Any time you fail a Celestial roll or do something your band can't do, add 1 to your Dissonance and roll 1d6. If your roll is greater than or equal to your Dissonance, you're fine for now. If it's under your Dissonance, you gain a Discord from the following table and reset your Dissonance to 0.
 
 |  | Discord | Description |
 | --- | ------- | ----------- |
@@ -36,8 +37,8 @@ Any time you do something your band can't do, add 1 to your Dissonance and roll 
 
 ## INTERVENTIONS
 
-If at least three dice come up 1 on a single roll, it's a divine intervention; that roll fails regardless of the rest of the dice. If it would have been a success, the character gains a small advantage (which may not be immediately apparent).
-If at least three dice come up 6 on a single roll, it's an infernal intervention; the roll succeeds spectacularly.
+If at least three dice come up 1 on a single roll, it's a divine intervention; that roll fails regardless of the rest of the dice. If it would have been a success, the character gains a small advantage (which may not be immediately apparent).<br>
+If at least three dice come up 6 on a single roll, it's an infernal intervention; the roll succeeds spectacularly. In addition, reduce Dissonance by 1, to a minimum of 0, or remove a single Discord.<br>
 
 ## TRIVIA
 
