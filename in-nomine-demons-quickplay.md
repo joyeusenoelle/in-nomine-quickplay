@@ -96,7 +96,7 @@ The GM should roll on each chart to generate an adventure, or pick an item from 
 | 5 | An unrelated event causes disturbance nearby |
 | 6 | The weather is hazardous |
 
-| COMPLICATIONS 2 | 
+| COMPLICATIONS 2 | |
 | --------------- | --- |
 | 1 | One of the protagonists knows the antagonist |
 | 2 | The antagonist has secret allies |
