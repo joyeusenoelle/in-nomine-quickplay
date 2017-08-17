@@ -1,5 +1,4 @@
 # In Nomine: Infernal
-## WORK IN PROGRESS
 
 You're a group of demons, sent to earth in human guise to corrupt and pervert humans. The forces of Heaven aren't your only adversaries; ethereal spirits, human sorcerers, and divine Saints also vie for the souls of humanity.
 
