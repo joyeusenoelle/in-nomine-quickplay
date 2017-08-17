@@ -39,6 +39,14 @@ Any time you fail a Celestial roll or you do something your choir can't do, add 
 If at least three dice come up 1 on a single roll, it's a divine intervention; that roll succeeds regardless of the rest of the dice. If it would have been a success anyway, it's a spectacular success. In addition, reduce Dissonance by 1, to a minimum of 0, or remove a single Discord.<br>
 If at least three dice come up 6 on a single roll, it's an infernal intervention; the roll succeeds, but at a cost to the player (which may not be immediately apparent).
 
+## TRIVIA
+
+**Songs** are miracles that influence the world in certain ways. Unless the adventure specifies otherwise, PCs should not know any Songs, but antagonists might.
+
+**Artifacts** are objects imbued with celestial power. They're like Songs with physical form. Like Songs, PCs should not usually have any artifacts to begin with, but antagonists might.
+
+**Tethers** are ways to get between the celestial or ethereal planes and Earth. They are created by substantial events that linger in the general human consciousness, and can be disrupted or destroyed by direct celestial interference. [Atlas Obscura](http://atlasobscura.com) is a good source for potential Tethers.
+
 ## THE ADVENTURE
 
 The GM should roll on each chart to generate an adventure, or pick an item from each list.
@@ -98,4 +106,3 @@ The GM should roll on each chart to generate an adventure, or pick an item from 
 | 6 | The antagonist has a secret weakness | 
 
 *This is based on the role-playing game [In Nomine](http://www.sjgames.com/in-nomine), written by Derek Pearcy and published by Steve Jackson Games, Inc. Please visit the linked site for more information and to purchase the full game.*
-
