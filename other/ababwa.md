@@ -4,7 +4,7 @@ You are residents of a wealthy kingdom in the desert. Months ago, your Prince le
 
 ## SKILLS AND ROLLS
 
-You have two skills: Strength and Spirit. Use Strength when you're using force or being tough; use Spirit when you're being quick or smart. When you use a skill, roll as many 6-sided dice as you have points in that skill. If any dice come up 6, you succeed; otherwise you fail. Always roll at least 1 die, even if a penalty would drop you below 1 in a skill.
+You have two skills: Strength and Spirit. Use Strength when you're using force or being tough; use Spirit when you're being quick or smart. When you use a skill, roll as many 6-sided dice as you have points in that skill. If any dice come up 5 or 6, you succeed; otherwise you fail. Always roll at least 1 die, even if a penalty would drop you below 1 in a skill.
 
 ## DISFAVOR
 
