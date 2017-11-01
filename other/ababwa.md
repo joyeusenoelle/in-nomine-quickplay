@@ -1,5 +1,9 @@
 # ABABWA
 
+*In Disney's "Aladdin", the title character asks the Genie to make him a prince -- not to give him the trappings of princedom. The Genie turns Aladdin into Prince Ali of Ababwa.*
+
+*So what happens when Ali and his retinue never come home?*
+
 You are residents of a wealthy kingdom in the desert. Months ago, your Prince led a delegation to a nearby kingdom to woo its ruler's daughter, a reclusive princess. He never returned and the entire delegation has vanished. It's up to you to figure out what happened to him!
 
 ## SKILLS AND ROLLS
